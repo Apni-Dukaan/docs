@@ -1,4 +1,4 @@
 # Tech Stack
 
-Frontend: Flutter
-Backend: Supabase
+- Frontend: Flutter
+- Backend: Supabase
